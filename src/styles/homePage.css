@@ -1,0 +1,13 @@
+.customLoginFormStyle {
+    display: inline-block;
+    width: 20%;
+}
+
+.customLoginStyle {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.inputLoginStyle {
+    color: rgba(0, 0, 0, .25);
+}

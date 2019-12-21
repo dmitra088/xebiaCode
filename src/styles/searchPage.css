@@ -1,0 +1,27 @@
+.searchPageLayout {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+.autocomplete {
+    width: 15%;
+    float: left;
+}
+
+.customWidth {
+    width: 410px;
+}
+
+.logoutFloat {
+    float: right;
+}
+
+.errorColor {
+    color: red;
+}
+
+.optionFontWeight {
+    font-weight: bold;
+}
