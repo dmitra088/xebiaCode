@@ -72,7 +72,6 @@ class SearchPage extends Component {
         const { Option } = AutoComplete;
 
         const options = this.props.planets.map((item) => {
-            console.log(parseInt(item.population));
             if (parseInt(item.population) > 30000000) {
                 return (
                     <Option style={{ fontWeight: "bold" }} key={item.name} value={item.name}>
